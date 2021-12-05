@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Qasir APP ID</description>
+      <initValue>'com.innovecto.etalastic'</initValue>
+      <name>qasir_app_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Qasir No HP</description>
+      <initValue>'82146730870'</initValue>
+      <name>no_hp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Qasir PIN</description>
+      <initValue>'jbpyZ8WerK0='</initValue>
+      <name>pin</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
